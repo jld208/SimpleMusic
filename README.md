@@ -6,7 +6,7 @@
 
 ## 下载安装
 
-前往 [最新版本](../../releases/latest) 下载 `简约音乐-v<版本>-release.apk`，传到手机上点击安装即可
+前往 [最新版本](../../releases/latest) 下载 `SimpleMusic-v<版本>-release.apk`，传到手机上点击安装即可
 （首次安装需要允许「安装未知应用」）。
 
 ## 应用内更新
